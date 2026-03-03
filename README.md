@@ -6,10 +6,8 @@ I am an IT student from Poland with a profound passion for leveraging technology
 
 ### 🚀 About Me
 - 🎓 Currently in my final year at **SCI Szczecin** (Top-ranked IT Technical High School in the region).
-- 🇪🇸 Prospective **Computer Science Engineering** student (targeting UC3M, Spain).
 - 🏆 Winner of the regional SCI Hackathon with the application **"BreakIT"**.
 - 🛡️ Certified **eLearnSecurity Junior Penetration Tester (eJPT)**.
-- 🏃‍♂️ Proud finisher of the **Warsaw Marathon 2025**.
 
 ### 💻 Tech Stack & Tools
 - **Frontend:** React.js, JavaScript, HTML5, CSS3
